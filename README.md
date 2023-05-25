@@ -16,3 +16,13 @@
   6. (Builder's Guide) 
   
   7. CNN
+
+5월 3주차 학습 내용:
+
+  11-1. Attention
+
+  11-2. Transformer
+  
+5월 4주차 학습 내용:
+
+  11-3. VIT - Vision Transformer

@@ -19,10 +19,10 @@
 
 5월 3주차 학습 내용:
 
-  11-1. Attention
+  11. Attention (11-1)
 
-  11-2. Transformer
+  11. Transformer (11-2)
   
 5월 4주차 학습 내용:
 
-  11-3. VIT - Vision Transformer
+  11. VIT - Vision Transformer (11-3)
